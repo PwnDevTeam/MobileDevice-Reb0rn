@@ -1,0 +1,12 @@
+Q: What is MobileDevice.vb?
+A: MobileDevice.vb is a visual basic implementation of MobileDevice.h
+
+Q: What does it do?
+A: MobileDevice is used to comminucate with your iDevice!
+
+Q: Can i have this in my program?
+A: Yes, as long as theres following line in the program:
+	"MobileDevice-Reb0rn.vb by fallensn0w"
+
+Q: How long did you spend porting MobileDevice.h to VB?
+A: About a night or so.. 
