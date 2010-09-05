@@ -1,3 +1,9 @@
+
+
+-> THIS PROJECT HAS BEEN MOVED TO vbiRecovery SO GO AND WATCH THAT INSTEAD <--
+
+
+
 Q: What is MobileDevice.vb?
 A: MobileDevice.vb is a visual basic implementation of MobileDevice.h
 
@@ -6,7 +12,7 @@ A: MobileDevice is used to comminucate with your iDevice!
 
 Q: Can i have this in my program?
 A: Yes, as long as theres following line in the program:
-	"MobileDevice-Reb0rn.vb by fallensn0w"
+	"MobileDevice-Reb0rn.vb by Fallensn0w"
 
 Q: How long did you spend porting MobileDevice.h to VB?
 A: About a night or so.. 
